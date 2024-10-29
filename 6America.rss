@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Roku-Developer-Sample-Feed</title>
+     <link />
+    <description>Feed on video content for testing channel applications built on the Roku developer platform</description>
+    <language>en-us</language>
+    <pubDate>Wed, 11 Nov 2015 20:30:54 GMT</pubDate>
+    <image>
+      <title>Roku-Developer-Sample-Feed</title>
+      <url>https://ak9.picdn.net/shutterstock/videos/1024027949/thumb/1.jpg</url>
+      <width>30</width>
+      <height>15</height>
+    </image>
+	
+	<item>
+      <title>CNN</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="http://84.22.33.254/unicast.cnn/video.m3u8">
+        <media:description>CNN</media:description>
+		<media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" />
+        <media:title>CNN</media:title>
+      </media:content>
+    </item>
+	
+			<item>
+      <title>EURO</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1920" isDefault="true" url="http://61.58.60.230:9319/live/129.m3u8">
+	  <width>720</width>
+      <height>1920</height>
+        <media:description>EURO</media:description>
+		<media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" />
+        <media:title>EURO</media:title>
+		
+      </media:content>
+    </item>
+	
+		<item>
+      <title>GLOBAL NEWS</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="https://d128o1k7zh3htz.cloudfront.net/out/v1/74a58360a3734f97b74ba439bc678044/index.m3u8">
+        <media:description>GLOBAL NEWS</media:description>
+		<media:thumbnail url="https://shawglobalnews.files.wordpress.com/2018/03/new_square-e1527639599961.png" />
+        <media:title>GLOBAL NEWS</media:title>
+      </media:content>
+    </item>
+	
+
+	
+	<item>
+      <title>NAT GEO</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="http://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8">
+        <media:description>NAT GEO</media:description>
+		<media:thumbnail url="https://i.imgur.com/bUepAp5.png" />
+        <media:title>NAT GEO</media:title>
+      </media:content>
+    </item>
+	
+	<item>
+      <title>NAT GEO WILD</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8">
+        <media:description>NAT GEO WILD</media:description>
+		<media:thumbnail url="https://i.imgur.com/h0NNZ2U.png.png" />
+        <media:title>NAT GEO WILD</media:title>
+      </media:content>
+    </item>
+	
+	<item>
+      <title>NAT GEO PEOPLE</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8">
+        <media:description>NAT GEO PEOPLE</media:description>
+		<media:thumbnail url="https://i.imgur.com/Wfqt9BS.png" />
+        <media:title>NAT GEO PEOPLE</media:title>
+      </media:content>
+    </item>
+	
+	    
+   	 <item>
+      <title>ET</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u8">
+        <media:description>ET</media:description>
+		<media:thumbnail url="https://i.imgur.com/7LXT3zf.png" />
+        <media:title>ET</media:title>
+      </media:content>
+    </item>
+	
+	<item>
+      <title>HISTORY 2</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8">
+        <media:description>HISTORY 2</media:description>
+		<media:thumbnail url="http://cineframe.mx/wp-content/uploads/2017/08/H2.png" />
+        <media:title>HISTORY 2</media:title>
+      </media:content>
+    </item>
+	
+	<item>
+      <title>BLOOMBERG</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8">
+        <media:description>BLOOMBERG</media:description>
+		<media:thumbnail url="https://i.imgur.com/idRFfhY.png" />
+        <media:title>BLOOMBERG</media:title>
+      </media:content>
+    </item>
+	
+	<item>
+      <title>TSC Shopping Canada</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_1_av-p.m3u8">
+        <media:description>TSC Shopping Canada</media:description>
+		<media:thumbnail url="https://cdn.iphoneincanada.ca/wp-content/uploads/2015/07/the-shopping-channel-logo.jpg" />
+        <media:title>TSC Shopping Canada</media:title>
+      </media:content>
+    </item>
+	
+	<item>
+      <title>The Weather Channel</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8">
+        <media:description>The Weather Channel</media:description>
+		<media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" />
+        <media:title>The Weather Channel</media:title>
+      </media:content>
+    </item>
+	
+	<item>
+      <title>RT America</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="https://rt-usa.secure.footprint.net/1105.m3u8">
+        <media:description>RT America</media:description>
+		<media:thumbnail url="https://images.pluto.tv/channels/56438e60e3d17178331a15c6/featuredImage.jpg" />
+        <media:title>RT America</media:title>
+      </media:content>
+    </item>
+	
+	<item>
+      <title>CBSN</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8">
+        <media:description>CBSN</media:description>
+		<media:thumbnail url="https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/21/cf422e24-1501-4289-95a4-8fdb9833c2ea/thumbnail/1200x630/b6ea51c1100568254685ce88e68608d5/logo-cbsn-1920x1080-new.jpg" />
+        <media:title>CBSN</media:title>
+      </media:content>
+    </item>
+	
+	<item>
+      <title>CNBC</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8">
+        <media:description>CNBC</media:description>
+		<media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" />
+        <media:title>CNBC</media:title>
+      </media:content>
+    </item>
+	
+	<item>
+      <title>BBC World</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="http://220.158.149.28:8180/live/TV00000000000000000112@HHZT">
+        <media:description>BBC World</media:description>
+		<media:thumbnail url="https://al-shabaka.org/wp-content/uploads/2017/12/bbc-logo.png" />
+        <media:title>BBC World</media:title>
+      </media:content>
+    </item>
+	
+	<item>
+      <title>ABC 10</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="http://190.80.3.28/ABC/ABC.isml/index.m3u8">
+        <media:description>ABC 10</media:description>
+		<media:thumbnail url="https://arc-anglerfish-arc2-prod-gmg.s3.amazonaws.com/public/SQTVCA7KBBCUHHLGF5K5SAPM6Y.png" />
+        <media:title>ABC 10</media:title>
+      </media:content>
+    </item>
+	
+	
+	<item>
+      <title>NASA</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7">
+        <media:description>NASA</media:description>
+		<media:thumbnail url="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" />
+        <media:title>NASA</media:title>
+      </media:content>
+    </item>
+	
+	
+	<item>
+      <title>CBS</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8">
+        <media:description>CBS</media:description>
+		<media:thumbnail url="https://i.imgur.com/pMhTxmf.png" />
+        <media:title>CBS</media:title>
+      </media:content>
+    </item>
+	
+	<item>
+      <title>WGN News</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8">
+        <media:description>WGN News</media:description>
+		<media:thumbnail url="https://pmcvariety.files.wordpress.com/2016/03/wgn_america_logo.jpg?w=1000" />
+        <media:title>WGN News</media:title>
+      </media:content>
+    </item>
+	
+		
+	<item>
+      <title>NBC</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8">
+        <media:description>NBC</media:description>
+		<media:thumbnail url="https://i.imgur.com/zGUrIlJ.png" />
+        <media:title>NBC</media:title>
+      </media:content>
+    </item>
+	
+
+	
+
+	
+	<item>
+      <title>C-SPAN</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8">
+        <media:description>C-SPAN</media:description>
+		<media:thumbnail url="https://static.musictoday.com/store/bands/5240/product_600/Z1AMCSPAN013.jpg" />
+        <media:title>NBC</media:title>
+      </media:content>
+    </item>
+	
+	<item>
+      <title>SKY NEWS</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8">
+        <media:description>SKY NEWS</media:description>
+		<media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" />
+        <media:title>SKY NEWS</media:title>
+      </media:content>
+    </item>
+	
+	<item>
+      <title>Bein Xtra</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8">
+        <media:description>Bein Xtra</media:description>
+		<media:thumbnail url="https://mms.businesswire.com/media/20190815005600/en/738673/23/beIN_SPORTS_Media_Group_Logo.jpg" />
+        <media:title>Bein Xtra</media:title>
+      </media:content>
+    </item>
+	
+	<item>
+      <title>NHK</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_600k.m3u8">
+        <media:description>NHK</media:description>
+		<media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" />
+        <media:title>NHK</media:title>
+      </media:content>
+    </item>
+	
+	<item>
+      <title>Adult Swim</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_3.m3u8">
+        <media:description>Adult Swim</media:description>
+		<media:thumbnail url="https://cdn.collider.com/wp-content/uploads/2011/05/adult-swim-logo-slice.jpg" />
+        <media:title>Adult Swim</media:title>
+      </media:content>
+    </item>
+	
+	<item>
+      <title>Earth TV</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge0/cdnedge/HicYJzEAB5E/chunklist.m3u8">
+        <media:description>Earth TV</media:description>
+		<media:thumbnail url="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/10/Earth-TV.jpg" />
+        <media:title>Earth TV</media:title>
+      </media:content>
+    </item>
+	
+	<item>
+      <title>Aljazeera</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="https://live-hls-web-ajb.getaj.net/AJB/index.m3u8">
+        <media:description>Aljazeera</media:description>
+		<media:thumbnail url="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1416.1489549198.png" />
+        <media:title>Aljazeera</media:title>
+      </media:content>
+    </item>
+	
+	<item>
+      <title>DW English</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8">
+        <media:description>DW English</media:description>
+		<media:thumbnail url="https://www.dw.com/image/15705485_101.jpg" />
+        <media:title>DW English</media:title>
+      </media:content>
+    </item>
+	
+	
+		<item>
+      <title>F24</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8">
+        <media:description>F24</media:description>
+		<media:thumbnail url="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/800px-FRANCE_24_logo.svg.png" />
+        <media:title>F24</media:title>
+      </media:content>
+    </item>
+	
+			<item>
+      <title>GREECE</title>
+	  <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720"  width="1280" isDefault="true" url="http://video.onestreaming.com:8081/thraki/thrakinettv/playlist.m3u8">
+        <media:description>GREECE</media:description>
+		<media:thumbnail url="https://i.imgur.com/WXlf12i.png" />
+        <media:title>GREECE</media:title>
+      </media:content>
+    </item>
+	
+
+	
+
+	
+	
+	
+      </channel>
+</rss>
+
+
+
+
